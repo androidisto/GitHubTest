@@ -1,0 +1,4 @@
+Application is created in kotlin, users are searched by thier username on github. 
+HTTP protocol is used for communication with server calls. 
+HTTP is used to download images from url. 
+LruCache is used for caching images. 
